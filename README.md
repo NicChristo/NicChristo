@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @NicChristo
+- 👀 I’m interested in blockchain development, smart contracts, gaming development and learning to code...
+- 🌱 I’m currently learning Python...
+- 🖥 Looking for advisors, source and any info relevant to my path...
+
+<!---
+NicChristo/NicChristo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
